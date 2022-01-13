@@ -1,0 +1,19 @@
+h2{
+  color: darkgreen;
+}
+.georgia{
+  font-family:georgia;
+  text-align: center;
+}
+p {
+  line-height:19px;
+}
+a{
+  text-decoration:none;
+}
+.b{
+  text-transform:uppercase;
+}
+a:hover{
+  text-decoration:red;
+}
